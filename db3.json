@@ -1,0 +1,352 @@
+{
+    "botones": [
+        {
+            "grupo1": [
+                {
+                    "id": 1,
+                    "estado": 1,
+                    "nombre": "DHN",
+                    "descripcion": "Dirección de Hidrografía y Navegación",
+                    "img": "dhn.png"
+                },
+                {
+                    "id": 2,
+                    "estado": 1,
+                    "nombre": "DHN2",
+                    "descripcion": "Dirección de Hidrografía y Navegación 2",
+                    "img": "dhn.png"
+                },
+                {
+                    "id": 3,
+                    "estado": 1,
+                    "nombre": "INDECI",
+                    "descripcion": "Instituto Nacional de Defensa Civil",
+                    "img": "indeci.png"
+                },
+                {
+                    "id": 4,
+                    "estado": 1,
+                    "nombre": "ACELDAT-PERU",
+                    "descripcion": "ACELDAT",
+                    "img": "seismic3.png"
+                }
+            ],
+            "grupo2": [
+                {
+                    "id": 5,
+                    "estado": 1,
+                    "nombre": "IGP",
+                    "descripcion": "Instituto Geofísico del Perú",
+                    "img": "igpsismos.png"
+                },
+                {
+                    "id": 6,
+                    "estado": 1,
+                    "nombre": "Gob.pe",
+                    "descripcion": "Gobierno del Perú",
+                    "img": "gobpe.png"
+                },
+                {
+                    "id": 7,
+                    "estado": 1,
+                    "nombre": "APP",
+                    "descripcion": "APP MOVIL IGP",
+                    "img": "app.svg"
+                },
+                {
+                    "id": 8,
+                    "estado": 1,
+                    "nombre": "Ultimo",
+                    "descripcion": "Ultimo sismo IGP",
+                    "img": "igp.png"
+                }
+            ],
+            "grupo3": [
+                {
+                    "id": 9,
+                    "estado": 1,
+                    "nombre": "SASPE",
+                    "descripcion": "SISTEMA DE ALERTA SÍSMICA PERUANO",
+                    "img": "saspe.png"
+                },
+                {
+                    "id": 10,
+                    "estado": 1,
+                    "nombre": "Face",
+                    "descripcion": "Facebook",
+                    "img": "facebook.png"
+                },
+                {
+                    "id": 11,
+                    "estado": 1,
+                    "nombre": "Twitter",
+                    "descripcion": "Twitter",
+                    "img": "twitter.png"
+                },
+                {
+                    "id": 12,
+                    "estado": 1,
+                    "nombre": "Email",
+                    "descripcion": "Hotmail / gmail",
+                    "img": "correo.png"
+                }
+            ],
+            "grupo4": [
+                {
+                    "id": 13,
+                    "estado": 1,
+                    "nombre": "IDEP",
+                    "descripcion": "Instituto Geográfico Nacional",
+                    "img": "geoidep.png"
+                },
+                {
+                    "id": 14,
+                    "estado": 1,
+                    "nombre": "PIDE",
+                    "descripcion": "Plataforma Nacional de Interoperabilidad",
+                    "img": "pide.png"
+                },
+                {
+                    "id": 15,
+                    "estado": 1,
+                    "nombre": "RIMAC",
+                    "descripcion": "RIMAC SEGUROS",
+                    "img": "rimac.png"
+                },
+                {
+                    "id": 16,
+                    "estado": 1,
+                    "nombre": "WH?",
+                    "descripcion": "WH",
+                    "img": "igp.png"
+                }
+            ]
+        }
+    ],
+    "evento": [
+        {
+            "evento1": [
+                {
+                    "id": 1,
+                    "estado": 1,
+                    "referencia": "952 km, al SO de ilo, ilo - Moquegua",
+                    "intensidad": "nivel 1",
+                    "telefono": "053-481151 481110 491555",
+                    "lati": "-12.166424",
+                    "longi": "-76.941945"
+                },
+                {
+                    "id": 2,
+                    "estado": 1,
+                    "referencia": "919 km al SO de Tacna, Tacna - Tacna",
+                    "intensidad": "nivel 2",
+                    "telefono": "052-414141 318455 318269 245987 412031",
+                    "lati": "-12.167424",
+                    "longi": "-76.940945"
+                },
+                {
+                    "id": 3,
+                    "estado": 1,
+                    "referencia": "921 km al SO de Alto De La Alianza, Tacna - Tacna",
+                    "intensidad": "nivel 4",
+                    "telefono": "953638729",
+                    "lati": "-12.168424",
+                    "longi": "-76.941945"
+                },
+                {
+                    "id": 4,
+                    "estado": 1,
+                    "referencia": "930 km al SO de Calana, Tacna - Tacna",
+                    "intensidad": "nivel 4",
+                    "telefono": "052-471017",
+                    "lati": "-12.169424",
+                    "longi": "-76.941945"
+                },
+                {
+                    "id": 5,
+                    "estado": 1,
+                    "referencia": "932 km al S de Punta De Bombon, Islay - Arequipa",
+                    "intensidad": "nivel 5",
+                    "telefono": "054-553025",
+                    "lati": "-12.167424",
+                    "longi": "-76.942945"
+                },
+                {
+                    "id": 6,
+                    "estado": 1,
+                    "referencia": "J932 km al SO de Locumba, Jorge Basadre - Tacna",
+                    "intensidad": "nivel 6",
+                    "telefono": "052-505613",
+                    "lati": "-12.167424",
+                    "longi": "-76.945945"
+                },
+                {
+                    "id": 7,
+                    "estado": 1,
+                    "referencia": "939 km al S de Mollendo, Islay - Arequipa",
+                    "intensidad": "nivel 7",
+                    "telefono": "054-533333",
+                    "lati": "-12",
+                    "longi": "-76"
+                },
+                {
+                    "id": 8,
+                    "estado": 1,
+                    "referencia": "960 km al S de Quilca, Camana - Arequipa",
+                    "intensidad": "nivel 8",
+                    "telefono": "054-619409",
+                    "lati": "-12",
+                    "longi": "-76"
+                }
+            ],
+            "evento2":[
+                {
+                    "id": 1,
+                    "estado": 1,
+                    "referencia": "952 km, al SO de ilo, ilo - Moquegua",
+                    "intensidad":"nivel 1",
+                    "telefono": "947669135",
+                    "latitud": "",
+                    "longitu": ""
+                },
+                {
+                    "id": 2,
+                    "estado": 1,
+                    "referencia":"919 km al SO de Tacna, Tacna - Tacna" ,
+                    "intensidad":"nivel 2",
+                    "telefono": "052-414141 318455 318269 245987 412031" ,
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 3,
+                    "estado": 1,
+                    "referencia":"921 km al SO de Alto De La Alianza, Tacna - Tacna",
+                    "intensidad":"nivel 3",
+                    "telefono":"953638729" ,
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 4,
+                    "estado": 1,
+                    "referencia":"930 km al SO de Calana, Tacna - Tacna",
+                    "intensidad":"nivel 4",
+                    "telefono": "052-471017",
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 5,
+                    "estado": 1,
+                    "referencia":"932 km al S de Punta De Bombon, Islay - Arequipa",
+                    "intensidad":"nivel 5",
+                    "telefono": "054-553025",
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 6,
+                    "estado": 1,
+                    "referencia":"J932 km al SO de Locumba, Jorge Basadre - Tacna",
+                    "intensidad":"nivel 6",
+                    "telefono": "052-505613",
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 7,
+                    "estado": 1,
+                    "referencia":"939 km al S de Mollendo, Islay - Arequipa",
+                    "intensidad":"nivel 7",
+                    "telefono":"054-533333" ,
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 8,
+                    "estado": 1,
+                    "referencia":"960 km al S de Quilca, Camana - Arequipa",
+                    "intensidad":"nivel 8",
+                    "telefono":"054-619409" ,
+                    "latitud":"" ,
+                    "longitu":""
+                }
+            ],
+            "evento3":[
+                {
+                    "id": 1,
+                    "estado": 1,
+                    "referencia": "952 km, al SO de ilo, ilo - Moquegua",
+                    "intensidad":"nivel 1",
+                    "telefono": "949563741",
+                    "latitud": "",
+                    "longitu": ""
+                },
+                {
+                    "id": 2,
+                    "estado": 1,
+                    "referencia":"919 km al SO de Tacna, Tacna - Tacna" ,
+                    "intensidad":"nivel 2",
+                    "telefono": "052-414141 318455 318269 245987 412031" ,
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 3,
+                    "estado": 1,
+                    "referencia":"921 km al SO de Alto De La Alianza, Tacna - Tacna",
+                    "intensidad":"nivel 3",
+                    "telefono":"953638729" ,
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 4,
+                    "estado": 1,
+                    "referencia":"930 km al SO de Calana, Tacna - Tacna",
+                    "intensidad":"nivel 4",
+                    "telefono": "052-471017",
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 5,
+                    "estado": 1,
+                    "referencia":"932 km al S de Punta De Bombon, Islay - Arequipa",
+                    "intensidad":"nivel 5",
+                    "telefono": "054-553025",
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 6,
+                    "estado": 1,
+                    "referencia":"J932 km al SO de Locumba, Jorge Basadre - Tacna",
+                    "intensidad":"nivel 6",
+                    "telefono": "052-505613",
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 7,
+                    "estado": 1,
+                    "referencia":"939 km al S de Mollendo, Islay - Arequipa",
+                    "intensidad":"nivel 7",
+                    "telefono":"054-533333" ,
+                    "latitud":"" ,
+                    "longitu":""
+                },
+                {
+                    "id": 8,
+                    "estado": 1,
+                    "referencia":"960 km al S de Quilca, Camana - Arequipa",
+                    "intensidad":"nivel 8",
+                    "telefono":"054-619409" ,
+                    "latitud":"" ,
+                    "longitu":""
+                }
+            ]
+        }
+    ]
+}
